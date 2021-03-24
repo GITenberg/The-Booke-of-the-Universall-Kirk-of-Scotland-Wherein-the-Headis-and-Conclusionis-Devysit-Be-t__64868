@@ -1,0 +1,32 @@
+_repo: The-Booke-of-the-Universall-Kirk-of-Scotland-Wherein-the-Headis-and-Conclusionis-Devysit-Be-t__64868
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Peterkin, Alexander
+    alias: Peterkin, Alex. (Alexander)
+    birthdate: 1780
+    deathdate: 1846
+    gutenberg_agent_id: '52299'
+    url: http://www.gutenberg.org/2009/agents/52299
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Peterkin
+description: ''
+gutenberg_issued: '2021-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Booke of the Universall Kirk of Scotland
+
+  Wherein the Headis and Conclusionis Devysit Be the Ministers and Commissionaris
+  of the Particular Kirks Thereof, Are Specially Expressed and Contained.'
+url: http://www.gutenberg.org/ebooks/64868
